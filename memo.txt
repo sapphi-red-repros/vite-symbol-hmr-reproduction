@@ -1,0 +1,4 @@
+
+1. Edit and save store.js
+1. click "decrement" button
+1. `runtime-core.esm-bundler.js:6568 [Vue warn]: injection "Symbol()" not found.`
